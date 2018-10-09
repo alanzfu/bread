@@ -13,7 +13,7 @@ ___
 - [ ] Leave covered in cool/dark place for 10-16 hours
 
 ___
-## Making the dough (Two loaves at 75% hydration)
+## Making the dough
 - [ ] Save 10g of starter (1 tbsp) for future use and follow [feeding guide](http://poop.com/starter#feeding)
 
 - [ ] **Stir** together:
